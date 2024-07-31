@@ -1,0 +1,32 @@
+html{
+    font-size: 30px;
+}
+
+body {
+    background-color: cornflowerblue;
+    color: white;
+    font-size: 18px;
+  }
+
+
+#color{
+
+    color: coral;
+    font-weight: bold;
+}
+
+#fontWeigth{
+    font-weight: 900;
+}
+
+#fontSize{
+    font-size: 2rem;
+}
+
+#fontFamily{
+    font-family: 'Caveat', cursive;
+}
+
+#textAlign{
+    text-align: right;
+}
