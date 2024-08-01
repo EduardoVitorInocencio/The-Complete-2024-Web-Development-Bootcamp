@@ -1,0 +1,29 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    margin: 0;
+}
+#first{
+    background-color: cadetblue; /*Cor do plano de fundo*/
+    color: antiquewhite;
+    padding: 20px; /*Distância entre o conteúdo e a borda da div*/
+    border: 10px solid black; /*Espessura, aparência, cor*/
+}
+
+#second{
+    background-color: yellow;
+    border:  solid black;
+    border-width: 20px 10px;
+    margin-left: 260px;
+}
+
+#third{
+    
+    margin-left: 0px;
+    background-color: green;
+    border: 10px solid black;
+    margin-left: 40px;
+}
